@@ -4,4 +4,6 @@ https://en.wikipedia.org/wiki/Kernel_density_estimation
 - Kernel Density Estimation compared to Histogram:
 http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/
 
+- A similar PDF introduction of Kernel Density Estimation:
+https://github.com/thatMeow/Machine_Learning_Notes/blob/master/Kernel_Density_Estimation/Supporting%20Material/Kernel%20Density%20Estimation.pdf
 
