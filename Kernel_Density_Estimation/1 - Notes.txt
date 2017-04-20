@@ -1,1 +1,7 @@
+- Wikipedia page of Kernel Density Estimation:
+https://en.wikipedia.org/wiki/Kernel_density_estimation
+
+- Kernel Density Estimation compared to Histogram:
+http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/
+
 
