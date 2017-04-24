@@ -1,0 +1,3 @@
+One good note on Kaggle testing various ML Models:
+https://www.kaggle.com/startupsci/titanic/titanic-data-science-solutions
+
