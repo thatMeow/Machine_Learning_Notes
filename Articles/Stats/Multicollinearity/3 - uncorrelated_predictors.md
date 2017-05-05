@@ -1,4 +1,4 @@
-https://onlinecourses.science.psu.edu/stat501/node/345
+source: https://onlinecourses.science.psu.edu/stat501/node/345
 
 ### Cases when two variables are not correlated
 
