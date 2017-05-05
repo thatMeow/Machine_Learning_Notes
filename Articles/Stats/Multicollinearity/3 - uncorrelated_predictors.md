@@ -1,3 +1,4 @@
+https://onlinecourses.science.psu.edu/stat501/node/345
 
 ### Cases when two variables are not correlated
 
@@ -6,3 +7,6 @@ When two variables are not correalted, the [Pearson Correlation](https://en.wiki
 ### Pearson correlation formula
 
 <img src="https://github.com/thatMeow/Machine_Learning_Notes/blob/master/Articles/Stats/Multicollinearity/Images/Pearson%20Correlation.png" width="600" height="200" />
+
+
+
