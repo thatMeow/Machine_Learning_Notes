@@ -1,0 +1,7 @@
+
+
+As the features/ dimensions increase, the exponential growth in data causes high sparcity. 
+
+  - We need a lot more data to train the model/ understand the pattern
+  - We need more computing power to understand and learn patterns from the data
+  - The predictive power reduces as the dimension increases
