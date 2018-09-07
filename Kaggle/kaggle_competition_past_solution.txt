@@ -1,1 +1,2 @@
 http://www.chioka.in/kaggle-competition-solutions/
+https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough
